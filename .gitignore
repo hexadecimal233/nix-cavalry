@@ -1,0 +1,6 @@
+result
+.omo
+# msidump artifacts (MSI table exports)
+Binary/
+Icon/
+*.idt
